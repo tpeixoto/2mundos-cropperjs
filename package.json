@@ -1,5 +1,5 @@
 {
-  "name": "cropperjs",
+  "name": "2mundos-cropperjs",
   "description": "JavaScript image cropper.",
   "version": "1.2.2-2m.0.0",
   "main": "dist/cropper.common.js",
